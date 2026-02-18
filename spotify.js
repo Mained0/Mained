@@ -22,6 +22,10 @@ const playlists = [
   {
     nombre: "Greatest",
     id: "0Vf3sb57w1iuGoghcBxNKv"
+  },
+  {
+    nombre: "Ye",
+    id: "023JgrFqbzBBtb47Ql1FCu"
   }
 ];
 
@@ -43,3 +47,4 @@ playlists.forEach(playlist => {
 
   container.appendChild(div);
 });
+
